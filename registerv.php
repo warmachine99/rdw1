@@ -41,7 +41,8 @@
             echo'<script> alert("Vehicle has Been Registered");</script>';
             
         }else{
-            $msg = "Error Vehicle not Registered";
+          echo'<script> alert("Vehicle has Been Registered");</script>';
+            
         }
 
             // header("location: main.php ");
